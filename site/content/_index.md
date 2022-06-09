@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "ahmad zaid's blog"
+subtitle: trying to be a good writer & a good person.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
